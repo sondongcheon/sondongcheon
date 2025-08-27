@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ❗ 도전과 소통의 개발자 손동천 입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 새로운 도전을 좋아하는 개발자 입니다.  </li></li><li> <br/><br/><br/> 운영중인 웹 : https://www.loaroot.com/</li>(Repository Private) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 새로운 도전을 좋아하는 개발자 입니다. <br/><br/><br/> </li></li><li> 운영중인 웹 : https://www.loaroot.com/</li>(Repository Private) </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
